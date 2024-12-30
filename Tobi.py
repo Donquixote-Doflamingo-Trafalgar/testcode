@@ -25,5 +25,3 @@ else:
     print("The best squad is not possible.")
 if not (Gk2 and Def1 and Def3):
     print(f"{Mid2}")
-else:
-    print("They aren't available.")
